@@ -22,7 +22,7 @@ print(f"jumlah telur {jumlah_telur} butir")
 
 if jumlah_botol_susu > 0:
     print("budi membeli 1 botol susu")
-    if jumlah_telur > 5:
+    if jumlah_telur >5 :
         print("dan membeli 6 butir telur")
     else:
         print("tidak membeli telur")
